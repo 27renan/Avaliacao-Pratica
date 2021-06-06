@@ -1,0 +1,14 @@
+[
+    {
+      "email":"cooperativa@gmail.com",
+      "password":"coo123654",
+      "id": 1,
+      "typeUser": "cooperativa"
+    },
+    {
+      "email":"motorista@gmail.com",
+      "password":"motor456987",
+      "id": 2,
+      "typeUser": "motorista"
+    }
+]
